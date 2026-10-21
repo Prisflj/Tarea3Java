@@ -1,0 +1,3 @@
+Reporte de Ventas
+Total vendido: Q3670.00
+Ventas superiores a Q500: 3
